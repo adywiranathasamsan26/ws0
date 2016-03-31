@@ -9,7 +9,8 @@ untuk mencoba service, ketik pada url browser:
 `http://localhost/latihan/ws0/klien.php`
 
 ## KELOMPOK 3 :
-Nama | Npm 
+Nama | Npm
+-----------|------ 
 ADY WIRANATHA SAMSAN | 1144013
 HARRY SYASKA PERDANA | 1144026
 KANIA KUSTIANI | 1144039
