@@ -7,7 +7,8 @@ Prinsip kerja seperti brosur, menyediakan layanan dari server
 untuk mencoba service, ketik pada url browser:
 
 `http://localhost/latihan/ws0/klien.php`
-KELOMPOK 3 :
+
+## KELOMPOK 3 :
 Nama | Npm 
 ADY WIRANATHA SAMSAN | 1144013
 HARRY SYASKA PERDANA | 1144026
